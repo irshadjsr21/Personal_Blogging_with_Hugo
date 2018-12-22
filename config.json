@@ -1,0 +1,31 @@
+{
+    "baseURL": "https://yoursite.example.com/",
+    "params": {
+        "AuthorName": "Irshad",
+        "navigation" : {
+            "left" : [
+                {
+                    "name" : "Blog",
+                    "URL" : "/blog"
+                },
+                {
+                    "name": "Press and Clients",
+                    "URL": "/press_and_clients"
+                }
+            ],
+            "right" : [
+                {
+                    "name" : "About",
+                    "URL" : "/about"
+                }
+            ]
+        },
+        "socials" : {
+            "twitter" : "#",
+            "instagram" : "#",
+            "linkedIn" : "#"
+        }
+    },
+    "title": "My Hugo Site",
+    "theme": "personal-site-with-blog"
+}
