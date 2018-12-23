@@ -14,10 +14,7 @@
                 }
             ],
             "right" : [
-                {
-                    "name" : "About",
-                    "URL" : "/about"
-                }
+                
             ]
         },
         "socials" : {
