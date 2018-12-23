@@ -1,7 +1,7 @@
 
 {{define "main"}}
+<h1>Blog</h1>
 {{ range .Data.Pages }}
-
 <section class="blog-list">
     <a href="{{ .Permalink }}">
         <h2 class="blog-list-title">{{ .Title }}</h2>

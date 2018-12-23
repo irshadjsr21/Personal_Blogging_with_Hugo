@@ -13,6 +13,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 15px 0;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 h1 {
@@ -34,6 +35,7 @@ h4 {
 p {
     line-height: 1.5rem;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .nav {
