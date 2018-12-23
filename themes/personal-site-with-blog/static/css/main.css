@@ -67,6 +67,7 @@ p {
     left: calc(50%);
     transform: translateX(-50%);
     font-size: 1.75rem;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .nav a {
